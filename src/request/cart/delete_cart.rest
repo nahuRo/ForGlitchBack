@@ -1,0 +1,7 @@
+// Vacía un carrito y lo elimina.
+DELETE http://localhost:8080/Api/carrito/2
+
+###
+
+// Eliminar un producto del carrito por su id de carrito y de producto
+DELETE http://localhost:8080/Api/carrito/1/productos/6

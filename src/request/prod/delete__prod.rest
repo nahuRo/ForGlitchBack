@@ -1,0 +1,3 @@
+// Borra un producto por su id 
+DELETE http://localhost:8080/Api/productos/6 
+

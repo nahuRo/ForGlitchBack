@@ -1,0 +1,3 @@
+// Me permite listar todos los productos 
+//disponibles(si le paso un id que no tengo) ó un producto por su id 
+GET http://localhost:8080/Api/productos/6

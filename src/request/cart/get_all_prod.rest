@@ -1,0 +1,2 @@
+// Me permite listar todos los productos guardados en el carrito
+GET http://localhost:8080/Api/carrito/1/productos
